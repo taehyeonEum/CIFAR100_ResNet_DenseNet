@@ -1,4 +1,4 @@
-##CIFAR100 Pytorch DenseNet ResNet VGG
+##CIFAR100 Pytorch DenseNet ResNet VGG##
 
 Codes for CIFAR100 dataset using pytorch framework
 

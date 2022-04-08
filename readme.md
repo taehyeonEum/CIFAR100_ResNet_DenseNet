@@ -9,7 +9,7 @@ Environment
     CUDA VERSION: cuda 11.0
     python: 3.9  
 
-Accuracy
+Accuracy (with no extra data)
 
     VGG:      68.76%
     ResNet:   75.46%

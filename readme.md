@@ -13,5 +13,5 @@ Accuracy (with no extra data)
 
     VGG:      68.76%
     ResNet:   75.46%
-    DenseNet: 77.55%
+    DenseNet: 77.85%
 
